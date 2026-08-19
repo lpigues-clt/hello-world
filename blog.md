@@ -1,5 +1,9 @@
 # Blog
 Throughout this course, I will write posts about data science topics I am interested in.
 ## Blog 1
-Coming soon.
+Starting this course, I keep asking myself why we even bother modeling people in the first place. In sports, it seems simple at first. A shot chart or a win probability is just describing something that already happened. But it's never really just description. Once you turn someone's performance into a number, you're making a claim about how valuable they are, and that claim follows them into contract talks, draft boards, and playing time. Financial services isn't that different. A credit score or a risk model decides who gets approved for a loan, what rate they pay, and who gets flagged as risky before they've actually done anything. Modeling social topics matters because these things don't stay theoretical. People use them, and those uses have consequences.
+
+That leads into responsibility, which is honestly the part I'm still figuring out. It's easy to look at a dataset and just see rows and columns, but every row used to be a person who probably never agreed to be boiled down into a handful of variables. A model can be accurate on paper and still be unfair, especially if it learned from data that already carried some bias, or if it gets used somewhere it was never meant for. To me, being responsible means being honest about what a model can't tell you, not overselling how confident it is, and actually thinking about who ends up on the receiving end of a prediction before putting it out into the world.
+
+What I want out of this class isn't really more math. I already enjoy building models. I want to get better at the judgment part, knowing when a model shouldn't be used at all, when a number needs more context than a spreadsheet can give, and how to talk about results with someone who has no interest in seeing the code. If I end up working in finance or sports, I think that judgment matters just as much as the technical side, maybe even more.
 
