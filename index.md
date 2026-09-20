@@ -1,4 +1,4 @@
-# Your Name
+# Levi Pigues
 Data Science Student  
 UNC Charlotte
 ## About Me
