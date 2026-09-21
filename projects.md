@@ -1,14 +1,24 @@
 # Projects
 
+This section documents my data science projects, research questions, and data stories I create throughout the semester.
+
+---
+
 ## Project 1: Does Explicit Content Affect Song Popularity?
+
 **Status:** In progress
 
-I'm exploring whether explicit content affects a song's popularity on Spotify, and whether that relationship differs by genre, using data pulled from the Spotify Web API.
+**Research Question:** Does having explicit content help or hurt a song's popularity on Spotify, and does that relationship differ across genres?
 
-**Research question:** Does explicit content help or hurt a song's popularity, and does this vary by genre?
+**Data Source:** Data pulled from the [Spotify Web API](https://developer.spotify.com/documentation/web-api), using the Client Credentials authentication flow.
 
-**Data source:** [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+**Key Variables:**
+- Popularity Score — Spotify's internal metric reflecting a track's popularity
+- Explicit Content Flag — whether a track is marked explicit or clean (main independent variable)
+- Genre
+- Duration — converted from milliseconds to seconds
+- Track Age — time since release, calculated from release date
 
-**Code:** [View my analysis notebook](https://github.com/lpigues-clt/hello-world/blob/main/spotify_analysis.ipynb)
+**Progress so far:** I successfully authenticated with the Spotify API and built a working data pull pipeline. I ran into limitations with Spotify's genre-based search filtering while collecting a clean, genre-labeled sample, which I'm resolving to finalize the dataset, cleaning steps, and visualizations.
 
-I ran into some API limitations while pulling genre-classified data and am resolving this to finalize the visualizations and analysis.
+**Code:** [View my analysis notebook](https://github.com/lpigues-clt/hel
