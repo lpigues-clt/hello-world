@@ -23,7 +23,6 @@ This section documents my data science projects, research questions, and data st
 
 ### Visualizations
 
-![Track Duration by Genre and Explicit Content](Project 1/viz1.png)
+![Track Duration by Genre and Explicit Content](viz1.png)
 
-![Track Duration Over Time by Genre](Project 1/viz2.png)
-**Code:** [View my analysis notebook](https://github.com/lpigues-clt/hel
+![Track Duration Over Time by Genre](viz2.png)
