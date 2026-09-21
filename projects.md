@@ -21,4 +21,9 @@ This section documents my data science projects, research questions, and data st
 
 **Progress so far:** I successfully authenticated with the Spotify API and built a working data pull pipeline. I ran into limitations with Spotify's genre-based search filtering while collecting a clean, genre-labeled sample, which I'm resolving to finalize the dataset, cleaning steps, and visualizations.
 
+### Visualizations
+
+![Track Duration by Genre and Explicit Content](Project 1/viz1.png)
+
+![Track Duration Over Time by Genre](Project 1/viz2.png)
 **Code:** [View my analysis notebook](https://github.com/lpigues-clt/hel
