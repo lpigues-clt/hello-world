@@ -1,10 +1,10 @@
 # Levi Pigues
-[My LinkedIn](https://www.linkedin.com/in/levipigues)
-
-[Download my Resume](resume.pdf) 
 <p style="color:#1DB954; font-weight:bold; font-size:1.15em;">
 Aspiring data scientist focused on financial services & sports analytics
 </p>
+[My LinkedIn](https://www.linkedin.com/in/levipigues)
+
+[Download my Resume](resume.pdf) 
 <h2 style="color:#191414; border-bottom: 3px solid #1DB954; padding-bottom: 4px;">
 About Me
 </h2>
